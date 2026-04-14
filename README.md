@@ -1,8 +1,3 @@
- <h1 align="center">Hi 👋, I'm Youness Elboudali</h1> 
-
- <p align="center">  
-   <img src ="https://badge.mediaplus.ma/darkblue/yoelboud">
-</p>
 
 <!--
 **Roy-ALPHA/Roy-ALPHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
