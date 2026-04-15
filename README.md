@@ -1,6 +1,4 @@
-# Youness Elboudali
 
-Software Engineering student at **1337 (42 Network)**. 
 <!--
 **Roy-ALPHA/Roy-ALPHA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
